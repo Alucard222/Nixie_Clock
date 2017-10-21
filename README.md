@@ -9,16 +9,16 @@ The final version is "/PCB/NIXIE_clock.PcbLib"
 all the code in the repo.
 
 ###Some images
-<img src="./Images/3.jpeg" alt="Drawing" style="width: 400px;"/> 
+<img src="./Images/3.jpeg" alt="Drawing" style="width: 300px;"/> 
 
 *the normal mode* 
 
-<img src="./Images/4.jpeg" alt="Drawing" style="width: 400px;"/>
+<img src="./Images/4.jpeg" alt="Drawing" style="width: 300px;"/>
 
 *the circuit* 
 
-<img src="./Images/1.jpeg" alt="Drawing" style="width: 400px;"/>
-<img src="./Images/2.jpeg" alt="Drawing" style="width: 400px;"/>
+<img src="./Images/1.jpeg" alt="Drawing" style="width: 300px;"/>
+<img src="./Images/2.jpeg" alt="Drawing" style="width: 300px;"/>
 
 if you have some questions or good ideas
 feel free communicate with me  

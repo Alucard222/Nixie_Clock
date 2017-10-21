@@ -1,0 +1,78 @@
+Added Component: Designator=NIXIE0(IN14)
+Added Component: Designator=NIXIE1(IN14)
+Added Component: Designator=NIXIE2(IN14)
+Added Component: Designator=NIXIE3(IN14)
+Added Component: Designator=NIXIE4(IN14)
+Added Component: Designator=NIXIE5(IN14)
+Added Pin To Net: NetName=NetNIXIE0_a Pin=NIXIE0-a
+Added Pin To Net: NetName=NIXIE0.1 Pin=NIXIE0-c
+Added Pin To Net: NetName=NIXIE0.2 Pin=NIXIE0-d
+Added Pin To Net: NetName=NIXIE0.3 Pin=NIXIE0-e
+Added Pin To Net: NetName=NIXIE0.4 Pin=NIXIE0-f
+Added Pin To Net: NetName=NIXIE0.5 Pin=NIXIE0-g
+Added Pin To Net: NetName=NIXIE0.6 Pin=NIXIE0-h
+Added Pin To Net: NetName=NIXIE0.7 Pin=NIXIE0-i
+Added Pin To Net: NetName=NIXIE0.8 Pin=NIXIE0-j
+Added Pin To Net: NetName=NIXIE0.9 Pin=NIXIE0-k
+Added Pin To Net: NetName=NIXIE0.0 Pin=NIXIE0-l
+Added Pin To Net: NetName=NetNIXIE1_a Pin=NIXIE1-a
+Added Pin To Net: NetName=NIXIE1.1 Pin=NIXIE1-c
+Added Pin To Net: NetName=NIXIE1.2 Pin=NIXIE1-d
+Added Pin To Net: NetName=NIXIE1.3 Pin=NIXIE1-e
+Added Pin To Net: NetName=NIXIE1.4 Pin=NIXIE1-f
+Added Pin To Net: NetName=NIXIE1.5 Pin=NIXIE1-g
+Added Pin To Net: NetName=NIXIE1.6 Pin=NIXIE1-h
+Added Pin To Net: NetName=NIXIE1.7 Pin=NIXIE1-i
+Added Pin To Net: NetName=NIXIE1.8 Pin=NIXIE1-j
+Added Pin To Net: NetName=NIXIE1.9 Pin=NIXIE1-k
+Added Pin To Net: NetName=NIXIE1.0 Pin=NIXIE1-l
+Added Pin To Net: NetName=NetNIXIE2_a Pin=NIXIE2-a
+Added Pin To Net: NetName=NIXIE2.1 Pin=NIXIE2-c
+Added Pin To Net: NetName=NIXIE2.2 Pin=NIXIE2-d
+Added Pin To Net: NetName=NIXIE2.3 Pin=NIXIE2-e
+Added Pin To Net: NetName=NIXIE2.4 Pin=NIXIE2-f
+Added Pin To Net: NetName=NIXIE2.5 Pin=NIXIE2-g
+Added Pin To Net: NetName=NIXIE2.6 Pin=NIXIE2-h
+Added Pin To Net: NetName=NIXIE2.7 Pin=NIXIE2-i
+Added Pin To Net: NetName=NIXIE2.8 Pin=NIXIE2-j
+Added Pin To Net: NetName=NIXIE2.9 Pin=NIXIE2-k
+Added Pin To Net: NetName=NIXIE2.0 Pin=NIXIE2-l
+Added Pin To Net: NetName=NetNIXIE3_a Pin=NIXIE3-a
+Added Pin To Net: NetName=NIXIE3.1 Pin=NIXIE3-c
+Added Pin To Net: NetName=NIXIE3.2 Pin=NIXIE3-d
+Added Pin To Net: NetName=NIXIE3.3 Pin=NIXIE3-e
+Added Pin To Net: NetName=NIXIE3.4 Pin=NIXIE3-f
+Added Pin To Net: NetName=NIXIE3.5 Pin=NIXIE3-g
+Added Pin To Net: NetName=NIXIE3.6 Pin=NIXIE3-h
+Added Pin To Net: NetName=NIXIE3.7 Pin=NIXIE3-i
+Added Pin To Net: NetName=NIXIE3.8 Pin=NIXIE3-j
+Added Pin To Net: NetName=NIXIE3.9 Pin=NIXIE3-k
+Added Pin To Net: NetName=NIXIE3.0 Pin=NIXIE3-l
+Added Pin To Net: NetName=NetNIXIE4_a Pin=NIXIE4-a
+Added Pin To Net: NetName=NIXIE4.1 Pin=NIXIE4-c
+Added Pin To Net: NetName=NIXIE4.2 Pin=NIXIE4-d
+Added Pin To Net: NetName=NIXIE4.3 Pin=NIXIE4-e
+Added Pin To Net: NetName=NIXIE4.4 Pin=NIXIE4-f
+Added Pin To Net: NetName=NIXIE4.5 Pin=NIXIE4-g
+Added Pin To Net: NetName=NIXIE4.6 Pin=NIXIE4-h
+Added Pin To Net: NetName=NIXIE4.7 Pin=NIXIE4-i
+Added Pin To Net: NetName=NIXIE4.8 Pin=NIXIE4-j
+Added Pin To Net: NetName=NIXIE4.9 Pin=NIXIE4-k
+Added Pin To Net: NetName=NIXIE4.0 Pin=NIXIE4-l
+Added Pin To Net: NetName=NetNIXIE5_a Pin=NIXIE5-a
+Added Pin To Net: NetName=NIXIE5.1 Pin=NIXIE5-c
+Added Pin To Net: NetName=NIXIE5.2 Pin=NIXIE5-d
+Added Pin To Net: NetName=NIXIE5.3 Pin=NIXIE5-e
+Added Pin To Net: NetName=NIXIE5.4 Pin=NIXIE5-f
+Added Pin To Net: NetName=NIXIE5.5 Pin=NIXIE5-g
+Added Pin To Net: NetName=NIXIE5.6 Pin=NIXIE5-h
+Added Pin To Net: NetName=NIXIE5.7 Pin=NIXIE5-i
+Added Pin To Net: NetName=NIXIE5.8 Pin=NIXIE5-j
+Added Pin To Net: NetName=NIXIE5.9 Pin=NIXIE5-k
+Added Pin To Net: NetName=NIXIE5.0 Pin=NIXIE5-l
+Added Member To Class: ClassName=NIXIEclock Member=Component NIXIE0 IN14
+Added Member To Class: ClassName=NIXIEclock Member=Component NIXIE1 IN14
+Added Member To Class: ClassName=NIXIEclock Member=Component NIXIE2 IN14
+Added Member To Class: ClassName=NIXIEclock Member=Component NIXIE3 IN14
+Added Member To Class: ClassName=NIXIEclock Member=Component NIXIE4 IN14
+Added Member To Class: ClassName=NIXIEclock Member=Component NIXIE5 IN14

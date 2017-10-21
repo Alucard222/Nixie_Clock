@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Administrator\Desktop\ª‘π‚÷”\PCB\NIXIEclock2.PcbDoc
+Date     : 2016/1/13
+Time     : 14:14:02
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad U1-48(5506.732mil,573.583mil)  Bottom Layer and 
+                     Pad U1-1(5453.583mil,626.732mil)  Bottom Layer
+   Violation between Pad U1-13(5506.732mil,896.417mil)  Bottom Layer and 
+                     Pad U1-12(5453.583mil,843.268mil)  Bottom Layer
+   Violation between Pad U1-25(5776.417mil,843.268mil)  Bottom Layer and 
+                     Pad U1-24(5723.268mil,896.417mil)  Bottom Layer
+   Violation between Pad U1-37(5723.268mil,573.583mil)  Bottom Layer and 
+                     Pad U1-36(5776.417mil,626.732mil)  Bottom Layer
+Rule Violations :4
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=10mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:03

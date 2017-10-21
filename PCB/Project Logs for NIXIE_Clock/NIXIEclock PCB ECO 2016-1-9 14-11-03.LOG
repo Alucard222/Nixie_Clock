@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NIXIE0.3 Pin=NIXIE0-e
+Added Pin To Net: NetName=NIXIE1.3 Pin=NIXIE1-e
+Added Pin To Net: NetName=NIXIE2.3 Pin=NIXIE2-e
+Added Pin To Net: NetName=NIXIE3.3 Pin=NIXIE3-e
+Added Pin To Net: NetName=NIXIE4.3 Pin=NIXIE4-e
+Added Pin To Net: NetName=NIXIE5.3 Pin=NIXIE5-e
+Added Room: Name=NIXIEclock

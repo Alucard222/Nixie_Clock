@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=595.STCP4 Pin=U1-26
+Removed Pin From Net: NetName=595.DATA5 Pin=U1-28
+Added Pin To Net: NetName=595.DATA5 Pin=U1-26
+Added Pin To Net: NetName=595.STCP4 Pin=U1-28

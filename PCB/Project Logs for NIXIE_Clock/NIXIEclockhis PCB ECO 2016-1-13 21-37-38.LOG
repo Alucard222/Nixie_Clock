@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=595.SHCP1 Pin=U1-14
+Removed Pin From Net: NetName=595.DATA1 Pin=U1-16
+Added Pin To Net: NetName=595.DATA1 Pin=U1-14
+Added Pin To Net: NetName=595.SHCP1 Pin=U1-16

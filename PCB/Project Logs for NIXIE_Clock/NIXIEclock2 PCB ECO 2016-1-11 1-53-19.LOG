@@ -1,0 +1,8 @@
+Added Component: Designator=BT0(CR1220)
+Added Component: Designator=Y2(X32768)
+Added Pin To Net: NetName=NetBT0_1 Pin=BT0-1
+Added Pin To Net: NetName=GND Pin=BT0-2
+Added Pin To Net: NetName=NetC60_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC61_1 Pin=Y2-2
+Added Member To Class: ClassName=NIXIEclock Member=Component BT0 Battery
+Added Member To Class: ClassName=NIXIEclock Member=Component Y2 XTAL

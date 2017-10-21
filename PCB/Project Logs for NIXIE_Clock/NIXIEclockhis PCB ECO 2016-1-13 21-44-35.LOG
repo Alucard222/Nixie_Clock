@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=595.SHCP0 Pin=U1-11
+Removed Pin From Net: NetName=595.STCP0 Pin=U1-12
+Removed Pin From Net: NetName=595.DATA0 Pin=U1-13
+Removed Pin From Net: NetName=595.DATA1 Pin=U1-14
+Removed Pin From Net: NetName=595.STCP1 Pin=U1-15
+Removed Pin From Net: NetName=595.SHCP1 Pin=U1-16
+Added Pin To Net: NetName=595.DATA1 Pin=U1-11
+Added Pin To Net: NetName=595.STCP1 Pin=U1-12
+Added Pin To Net: NetName=595.SHCP1 Pin=U1-13
+Added Pin To Net: NetName=595.DATA0 Pin=U1-14
+Added Pin To Net: NetName=595.STCP0 Pin=U1-15
+Added Pin To Net: NetName=595.SHCP0 Pin=U1-16

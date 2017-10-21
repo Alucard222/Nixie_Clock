@@ -1,0 +1,3 @@
+Added Component: Designator=D0(7227)
+Added Pin To Net: NetName=+170V Pin=D0-1
+Added Member To Class: ClassName=NIXIEclock Member=Component D0 SS14

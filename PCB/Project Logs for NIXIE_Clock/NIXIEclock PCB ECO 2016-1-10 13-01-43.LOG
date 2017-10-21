@@ -1,0 +1,4 @@
+Added Component: Designator=R69(0603)
+Added Pin To Net: NetName=H1.9 Pin=R69-1
+Added Pin To Net: NetName=NetH1'_15 Pin=R69-2
+Added Member To Class: ClassName=NIXIEclock Member=Component R69 Res1

@@ -20,5 +20,7 @@ all the code in the repo.
 <img src="./Images/1.jpeg" alt="Drawing" style="width: 400px;"/>
 <img src="./Images/2.jpeg" alt="Drawing" style="width: 400px;"/>
 
-feel free communicate with me
+if you have some questions or good ideas
+feel free communicate with me  
+
 email: fmo6@ucsc.edu
